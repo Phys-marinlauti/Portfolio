@@ -11,7 +11,7 @@ Estos resultados son relevantes para optimizar la gestión del tráfico, propone
 ---
 # Introducción
 Los peajes son herramientas muy útiles a la hora de manejar el flujo del tráfico; estudiar las métricas asociadas a estos puede ayudarnos a entender diversos patrones en el tráfico vehicular zonal.  
-Se realizó, utilizando Python y distintas librerías (**ver código en la siguiente celda del notebook**), el análisis y posterior visualización de la base de datos indicada. La misma contiene el número de pasos y distintas variables asociadas a los peajes de la Ciudad de Buenos Aires comprendidas para el período 01/01/2023 - 31/12/2023. 
+Se realizó, utilizando Python y distintas librerías (**ver código en notebook.ipynb**), el análisis y posterior visualización de la base de datos indicada. La misma contiene el número de pasos y distintas variables asociadas a los peajes de la Ciudad de Buenos Aires comprendidas para el período 01/01/2023 - 31/12/2023. 
 
 --- 
 
