@@ -1,0 +1,13 @@
+id_peaje,descripcion_peaje,coordenadas,autopista
+AVE,Avellaneda,"-34.6480551,-58.4781323",AU6 - Perito Moreno
+DEL,Dellepiane Centro,"-34.6500351,-58.4659619",AU Dellepiane
+DEC,Dellepiane Aeropuerto,"-34.650408,-58.465548",AU Dellepiane
+ALB,Alberti,"-34.6255012,-58.4000602",AU 1 - 25 de Mayo
+ILL,Illia,"-34.5754773,-58.3936495",AU Illia
+RET,Retiro II,"-34.57333,-58.395961",AU Illia
+SAL,Salguero,"-34.571164,-58.400975",AU Illia
+SAR,Sarmiento,"-34.567328,-58.406383",AU Illia
+PB1,Paseo del Bajo 1,"-34.616346,-58.366294",Au Paseo del Bajo
+PB2,Paseo del Bajo 2,"-34.574972,-58.392308",Au Paseo del Bajo
+PB3,Paseo del Bajo 3,"-34.575427,-58.39358",Au Paseo del Bajo
+KDT,Parque Nuevo,"-34.57091,-58.40168",Autopista Illia
