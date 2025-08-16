@@ -1,5 +1,5 @@
-# DA-Portfolio
-Este es mi portfolio con, principalmente, proyecctos de Data Analytics. 
+# Portfolio
+Este es mi portfolio con, principalmente, proyectos de Data Analytics, Data Science, y ML engineering. 
 
 Ante cualquier cosa, siéntanse libres de contactarme en cualquier momento a: 
 - Email: marinlauti00@gmail.com  
