@@ -23,16 +23,11 @@ temporal-leakage guards asserted at runtime), averaged over 5 seeds:
 League position is strongly
 autocorrelated (61% of clubs stay in their half year-over-year).
 
-The MPNN beats persistence by **1.5 ± 0.4 points** (one-sample t-test over
-seeds, *p* < 0.02) — a small but statistically significant edge. More
-importantly, it detects **~a third of half-table transitions**, which the
-persistence baseline cannot anticipate by construction. The central finding
-mirrors weak-form market efficiency: transfer-market activity *reflects*
-club quality far more than it *anticipates* changes in it.
+The MPNN beats persistence by 1.5 ± 0.4 points, a small but statistically significant edge.
 
 ## What's in this repo
 
-- `checkpoint/mpnn_final.pt` — trained weights **plus** everything needed
+- `checkpoint/mpnn_final.pt` — trained weights plus everything needed
   for inference: architecture config and the z-score normalization
   statistics of the training set (inputs must be normalized with these).
 - `model.py` — the architecture, `load_model()` and `predict()`.
@@ -43,7 +38,7 @@ model, ckpt = load_model()
 probs = predict(model, graph, ckpt)   # graph: PyG Data with x [N,19], edge_attr [E,8]
 ```
 
-**Requirements:** `torch`, `torch-geometric`.
+Requirements: `torch`, `torch-geometric`.
 
 ## Features
 
