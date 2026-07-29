@@ -3,5 +3,5 @@ Este es mi portfolio con, principalmente, proyectos de Data Analytics, Data Scie
 
 Ante cualquier cosa, siéntanse libres de contactarme en cualquier momento a: 
 - Email: marinlauti00@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/hola-soy-lautaro-mar%C3%ADn/
+- LinkedIn: https://www.linkedin.com/in/phys-marinlauti/
 
